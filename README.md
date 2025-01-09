@@ -5,13 +5,13 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 🌟 About Me
 - 🏫 **Education**:
   - **Undergraduate**: Currently pursuing my Bachelor's degree in **Computer Science and Design (CSD)**.
-  - Previously graduated with a **Diploma in Cybersecurity and Digital Forensics**
+  - Previously graduated with a **Diploma in Cybersecurity and Digital Forensics**.
 
 - 🌱 **My Goal**:  
   With technology becoming increasingly prevalent, the risks associated with it grow more complex and rampant. I aspire to leverage my skills and knowledge to make **cyberspace safer for everyone**.
 
 ## 🐍 Notable Projects
-- **RPA Integrated RTA (FYP)** (Apr 2021 – Jun 2021):
+- **RPA Integrated RTA** (Apr 2021 – Jun 2021):
   - Designed and improved **Red Team Automation (RTA)** scripts to simulate security breaches.
   - Built and modified **9 automated Python scripts** for process automation.
   - Developed a Flask-based **web GUI** for user-friendly script execution.
