@@ -17,6 +17,24 @@ Welcome to my GitHub profile! Here's a little about me:
   - Developed a Flask-based **web GUI** for user-friendly script execution.
   - Explored applications of **Robotic Process Automation (RPA)** to complement security operations.
 
+- **DTI - Sprout Sprinters** (Feb 2025 - May 2025)
+  - An interactive wellness solution designed for SUTD administrative staff to reduce stress and encourage physical activity during work hours.
+  - Combining a smart fidget toy with a Unity-based AR mobile app, the system promotes movement and mindfulness through gamified feedback and calming virtual environments.
+  - **Core Features**
+    - **Fidget Keychain**
+      - Step Tracker: Built-in accelerometer tracks steps; movement earns points in the app.
+      - Stress Detection: Tactile inputs (joystick, buttons, scroll wheel) provide sensory relief and indicate stress levels.
+      - Break Reminders: Prolonged interaction triggers a gentle buzz, prompting users to take a walking break.
+    - **Unity Mobile App**
+      - Health Dashboard: Real-time sync with the keychain via Arduino + Firebase to display steps and stress activity.
+      - AR Garden: Users scan their workspace to place and customize a relaxing virtual garden that evolves with daily activity.
+      - Plant Shop: Points from walking can be exchanged for virtual plants, gamifying movement and rewarding consistency.
+  - **Tech Stack**
+    - Hardware: Arduino Nano 33 BLE Sense, Accelerometer, Joystick, Buttons
+    - Software: Unity (C#), AR Foundation, Firebase, Arduino IDE
+    - Platform: Android Mobile App
+  - [Demo Video](https://www.youtube.com/watch?v=1INU9X7KD5E&)
+
 ## 🔧 Skills & Certifications
 - **Technical Skills**:
   - Programming: Python, Javascript, HTML/CSS
