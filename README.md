@@ -47,6 +47,8 @@ Welcome to my GitHub profile! Here's a little about me:
     - Hardware: Arduino Nano 33 BLE Sense, Accelerometer, Joystick, Buttons
     - Software: Unity (C#), AR Foundation, Firebase, Arduino IDE
     - Platform: Android Mobile App
+  - [Repository](https://github.com/szeyii/SproutSprinters)
+    > * Currently, the repository only consists of the Unity scenes used in making the Unity Mobile App. *
   - [Demo Video](https://www.youtube.com/watch?v=1INU9X7KD5E&)
 
 - **BEAR-ly Awake** (SUTD, What The Hack 2025)
