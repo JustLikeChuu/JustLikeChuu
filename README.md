@@ -27,7 +27,7 @@ Welcome to my GitHub profile! Here's a little about me:
   - **Tech Stack**
     - Software: Python, Flask, RPA with Python, Kali Linux
     - Platform: Web App (running locally)
-    > * Currently, the web app is to be hosted only **locally.** *
+    > *Currently, the web app is to be hosted only **locally.***
   - [Repository](https://github.com/Frankwotfurters/RedTeamAutomation)
   - [Pitch Video](https://youtu.be/Yhbue8GAzrM)
 
@@ -48,7 +48,7 @@ Welcome to my GitHub profile! Here's a little about me:
     - Software: Unity (C#), AR Foundation, Firebase, Arduino IDE
     - Platform: Android Mobile App
   - [Repository](https://github.com/szeyii/SproutSprinters)
-    > * Currently, the repository only consists of the Unity scenes used in making the Unity Mobile App. *
+    > *Currently, the repository only consists of the Unity scenes used in making the Unity Mobile App.*
   - [Demo Video](https://www.youtube.com/watch?v=1INU9X7KD5E&)
 
 - **BEAR-ly Awake** (SUTD, What The Hack 2025)
@@ -64,7 +64,7 @@ Welcome to my GitHub profile! Here's a little about me:
     - Hardware: ESP32, Digital Temperature Sensor, Shock Sensor, Sound Sensor
     - Software: Streamlit (Python), Python, JSON, CSS, C++
     - Platform: Web App (running locally)
-    > * Currently, the web app is to be hosted only **locally.** *
+    > *Currently, the web app is to be hosted only **locally.***
   - [Repository](https://github.com/JustLikeChuu/bearly-awake)
   - [Slide Deck](https://www.canva.com/design/DAGzfTHK-XE/K_Z9egQlDdbT0Wz5cfSVQg/view?utm_content=DAGzfTHK-XE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbff68a4153)
 
