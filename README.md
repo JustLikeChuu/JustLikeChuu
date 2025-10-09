@@ -70,7 +70,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🔧 Skills & Certifications
 - **Technical Skills**:
-  - Programming: Python, Javascript, HTML/CSS
+  - Programming: C, Python, Java, JavaScript, Assembly, HTML/CSS
   - Cybersecurity: Ethical Hacking, Digital Forensics, IT Systems Security and more
   - Tools: Flask, Docker
 - **Certifications**:
