@@ -8,11 +8,11 @@ Welcome to my GitHub profile! Here's a little about me:
   - Previously graduated with a **Diploma in Cybersecurity and Digital Forensics**.
 
 - 🌱 **My Goal**:  
-  With technology becoming increasingly prevalent, the risks associated with it grow more complex and rampant. I aspire to leverage my skills and knowledge to make **cyberspace safer for everyone**.
+  As technology becomes increasingly prevalent, the risks associated with it grow more complex and widespread. I aspire to leverage my skills and knowledge to make **cyberspace safer for everyone**.
 
 ## 🐍 Notable Projects
 - **RPA Integrated RTA** (FYP, Apr 2021 – Jun 2021):
-  - Current red teaming processes include many manual tasks that are often repetitive, undermining the efficiency and productivity of red team auditors. Red Team Automation with Robotic Process Automation Integration (RPA Integrated RTA) is a project that aims to enhance red teaming by eliminating repetitive manual processes with the use of RPA. Software robots can understand what is on the screen, type the correct keystrokes, recognise/retrieve data, and do various pre-defined tasks. With RPA, repetitive manual tasks can be automated, allowing red team auditors to focus on more complex issues.
+  - Current red teaming processes include many manual tasks that are often repetitive, undermining the efficiency and productivity of red team auditors. Red Team Automation with Robotic Process Automation Integration (RPA Integrated RTA) is a project that aims to enhance red teaming by automating repetitive manual processes using RPA. Software robots can understand what is on the screen, type the correct keystrokes, recognise/retrieve data, and do various pre-defined tasks. With RPA, repetitive manual tasks can be automated, allowing red team auditors to focus on more complex issues.
   - Designed and improved **Red Team Automation (RTA)** scripts to simulate security breaches.
   - Built and modified **9 automated Python scripts** for process automation.
   - Developed a Flask-based **web GUI** for user-friendly script execution.
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! Here's a little about me:
     - Automatic PDF Generation
     - Email Notification
     - Logging
-    - User Friendly GUI
+    - User-friendly GUI
   - **Tech Stack**
     - Software: Python, Flask, RPA with Python, Kali Linux
     - Platform: Web App (running locally)
@@ -41,7 +41,7 @@ Welcome to my GitHub profile! Here's a little about me:
       - Break Reminders: Prolonged interaction triggers a gentle buzz, prompting users to take a walking break.
     - **Unity Mobile App**
       - Health Dashboard: Real-time sync with the keychain via Arduino + Firebase to display steps and stress activity.
-      - AR Garden: Users scan their workspace to place and customize a relaxing virtual garden that evolves with daily activity.
+      - AR Garden: Users scan their workspace to place and customise a relaxing virtual garden that evolves with daily activity.
       - Plant Shop: Points from walking can be exchanged for virtual plants, gamifying movement and rewarding consistency.
   - **Tech Stack**
     - Hardware: Arduino Nano 33 BLE Sense, Accelerometer, Joystick, Buttons
@@ -52,14 +52,14 @@ Welcome to my GitHub profile! Here's a little about me:
   - [Demo Video](https://www.youtube.com/watch?v=1INU9X7KD5E&)
 
 - **BEAR-ly Awake** (SUTD, What The Hack 2025)
-  - An intelligent, interactive plush companion designed to provide a holistic, human-centered approach to improving sleep quality.
+  - An intelligent, interactive plush companion designed to provide a holistic, human-centred approach to improving sleep quality.
   - The project combines the emotional appeal of a comforting toy with a Streamlit-based dashboard, offering a solution that is both insightful and intuitive.
   - **Core Features**
-    - Simulated Sensors: Real-time sensor data (heart rate, temperature, and restlessness etc.) is collected via ESP32 boards and their relevant sensors.
+    - Simulated Sensors: Real-time sensor data (heart rate, temperature, and restlessness, etc.) is collected via ESP32 boards and their relevant sensors.
     - Interactive Dashboard: A clean, dashboard-style interface presents key sleep metrics and insights in a digestible format.
-    - AI Sleep Assistant: A simple AI-like system that generates personalized sleep routines based on the user's logged data.
+    - AI Sleep Assistant: A simple AI-like system that generates personalised sleep routines based on the user's logged data.
     - Persistent Data: A local JSON-based data storage system saves user logs and app state, ensuring sleep history is maintained between sessions.
-    (Data for the JSON file is compilled from all the sensors from the ESP32, then read and displayed on the web app.)
+    (Data for the JSON file is compiled from all the sensors from the ESP32, then read and displayed on the web app.)
   - **Tech Stack**
     - Hardware: ESP32, Digital Temperature Sensor, Shock Sensor, Sound Sensor
     - Software: Streamlit (Python), Python, JSON, CSS, C++
@@ -78,7 +78,7 @@ Welcome to my GitHub profile! Here's a little about me:
   - **RPA Developer Foundation (v2019.4)** (Jul 2021)
 
 ## 📌 Interests
-- Developing innovative tools using **my programming knowledge and skills*.
+- Developing innovative tools using **my programming knowledge and skills**.
 - Exploring **cybersecurity, automation, and AI**.
 - Participating in **community projects** to collaborate and grow.
 - Making **cyberspace safer for everyone**.
