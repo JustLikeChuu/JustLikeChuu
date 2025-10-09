@@ -78,7 +78,7 @@ Welcome to my GitHub profile! Here's a little about me:
   - **RPA Developer Foundation (v2019.4)** (Jul 2021)
 
 ## 📌 Interests
-- Developing innovative tools using **Python**.
+- Developing innovative tools using **my programming knowledge and skills*.
 - Exploring **cybersecurity, automation, and AI**.
 - Participating in **community projects** to collaborate and grow.
 - Making **cyberspace safer for everyone**.
