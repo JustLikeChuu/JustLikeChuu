@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🌟 About Me
 - 🏫 **Education**:
-  - **Undergraduate**: Currently pursuing my Bachelor's degree in **Computer Science and Design (CSD)** and a Minor in **Design AI**.
+  - **Undergraduate**: Currently pursuing my Bachelor's degree in **Computer Science and Design (CSD)** specialising in **Cybersecurity** and **AI**.
   - Previously graduated with a **Diploma in Cybersecurity and Digital Forensics**.
 
 - 🌱 **My Goal**:  
@@ -84,8 +84,8 @@ Welcome to my GitHub profile! Here's a little about me:
 - Making **cyberspace safer for everyone**.
 
 ## 🌍 Let's Connect!
-- 💬 Open to community projects and discussions! Drop me a message, and let’s create something amazing.  
-- 📧 Reach out via email: [Click Here!](mailto:ethanngsq@gmail.com)
+- 💬 Currently not open to community projects and discussions! Please do not drop me a message!
+- 📧 Reach out via email: [Click Here!](mailto:)
 
 > * "Each challenge is an opportunity to grow, innovate, and make a difference." *
 
