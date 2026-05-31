@@ -70,9 +70,9 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🔧 Skills & Certifications
 - **Technical Skills**:
-  - Programming: C, Python, Java, JavaScript, Assembly, HTML/CSS
+  - Programming: Java, Python, C, HTML/CSS, JavaScript / TypeScript
   - Cybersecurity: Ethical Hacking, Digital Forensics, IT Systems Security and more
-  - Tools: Flask, Docker
+  - Tools: Flask, Docker, MongoDB, MySQL
 - **Certifications**:
   - **AWS Academy Cloud Foundations** (Aug 2021)
   - **RPA Developer Foundation (v2019.4)** (Jul 2021)
