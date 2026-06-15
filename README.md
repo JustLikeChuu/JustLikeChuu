@@ -1,92 +1,87 @@
-# 👋 Hi, I'm JustLikeChuu!
+<h1 align="center">Hi 👋, I'm Ethan (JustLikeChuu)</h1>
+<h3 align="center">A Cybersecurity & AI Enthusiast dedicated to making cyberspace safer for everyone.</h3>
 
-Welcome to my GitHub profile! Here's a little about me:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JustLikeChuu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-## 🌟 About Me
-- 🏫 **Education**:
-  - **Undergraduate**: Currently pursuing my Bachelor's degree in **Computer Science and Design (CSD)** specialising in **Cybersecurity** and **AI**.
-  - Previously graduated with a **Diploma in Cybersecurity and Digital Forensics**.
+---
 
-- 🌱 **My Goal**:  
-  As technology becomes increasingly prevalent, the risks associated with it grow more complex and widespread. I aspire to leverage my skills and knowledge to make **cyberspace safer for everyone**.
+### 🌟 About Me
 
-## 🐍 Notable Projects
-- **RPA Integrated RTA** (FYP, Apr 2021 – Jun 2021):
-  - Current red teaming processes include many manual tasks that are often repetitive, undermining the efficiency and productivity of red team auditors. Red Team Automation with Robotic Process Automation Integration (RPA Integrated RTA) is a project that aims to enhance red teaming by automating repetitive manual processes using RPA. Software robots can understand what is on the screen, type the correct keystrokes, recognise/retrieve data, and do various pre-defined tasks. With RPA, repetitive manual tasks can be automated, allowing red team auditors to focus on more complex issues.
-  - Designed and improved **Red Team Automation (RTA)** scripts to simulate security breaches.
-  - Built and modified **9 automated Python scripts** for process automation.
-  - Developed a Flask-based **web GUI** for user-friendly script execution.
-  - Explored applications of **Robotic Process Automation (RPA)** to complement security operations.
-  - **Core Features**
-    - Scanners developed based on the OWASP Top 10 vulnerabilities
-    - RPA Integration
-    - Automatic PDF Generation
-    - Email Notification
-    - Logging
-    - User-friendly GUI
-  - **Tech Stack**
-    - Software: Python, Flask, RPA with Python, Kali Linux
-    - Platform: Web App (running locally)
-    > *Currently, the web app is to be hosted only **locally.***
-  - [Repository](https://github.com/Frankwotfurters/RedTeamAutomation)
-  - [Pitch Video](https://youtu.be/Yhbue8GAzrM)
+- 🎓 Undergraduate at the **Singapore University of Technology and Design (SUTD)** pursuing a Bachelor's in **Computer Science and Design (CSD)**, specializing in **Cybersecurity** and **AI**.
+- 🛡️ Shifting focus from **red teaming** to **penetration testing**, actively training on **HackTheBox** and working towards my **OSCP**.
+- ⚙️ Passionate about building innovative tools, utilising RPA for workflow automation, and integrating AI into human-centric solutions.
+- ⚡ **Fun Fact:** When I'm not picking up new technologies or studying for school, I'm usually grabbing my IEMs, listening to K-pop and Electronic Music, unwinding in someplace quiet.
 
-- **DTI - Sprout Sprinters** (SUTD, Feb 2025 - May 2025)
-  - An interactive wellness solution designed for SUTD administrative staff to reduce stress and encourage physical activity during work hours.
-  - Combining a smart fidget toy with a Unity-based AR mobile app, the system promotes movement and mindfulness through gamified feedback and calming virtual environments.
-  - **Core Features**
-    - **Fidget Keychain**
-      - Step Tracker: Built-in accelerometer tracks steps; movement earns points in the app.
-      - Stress Detection: Tactile inputs (joystick, buttons, scroll wheel) provide sensory relief and indicate stress levels.
-      - Break Reminders: Prolonged interaction triggers a gentle buzz, prompting users to take a walking break.
-    - **Unity Mobile App**
-      - Health Dashboard: Real-time sync with the keychain via Arduino + Firebase to display steps and stress activity.
-      - AR Garden: Users scan their workspace to place and customise a relaxing virtual garden that evolves with daily activity.
-      - Plant Shop: Points from walking can be exchanged for virtual plants, gamifying movement and rewarding consistency.
-  - **Tech Stack**
-    - Hardware: Arduino Nano 33 BLE Sense, Accelerometer, Joystick, Buttons
-    - Software: Unity (C#), AR Foundation, Firebase, Arduino IDE
-    - Platform: Android Mobile App
-  - [Repository](https://github.com/szeyii/SproutSprinters)
-    > *Currently, the repository only consists of the Unity scenes used in making the Unity Mobile App.*
-  - [Demo Video](https://www.youtube.com/watch?v=1INU9X7KD5E&)
+---
 
-- **BEAR-ly Awake** (SUTD, What The Hack 2025)
-  - An intelligent, interactive plush companion designed to provide a holistic, human-centred approach to improving sleep quality.
-  - The project combines the emotional appeal of a comforting toy with a Streamlit-based dashboard, offering a solution that is both insightful and intuitive.
-  - **Core Features**
-    - Simulated Sensors: Real-time sensor data (heart rate, temperature, and restlessness, etc.) is collected via ESP32 boards and their relevant sensors.
-    - Interactive Dashboard: A clean, dashboard-style interface presents key sleep metrics and insights in a digestible format.
-    - AI Sleep Assistant: A simple AI-like system that generates personalised sleep routines based on the user's logged data.
-    - Persistent Data: A local JSON-based data storage system saves user logs and app state, ensuring sleep history is maintained between sessions.
-    (Data for the JSON file is compiled from all the sensors from the ESP32, then read and displayed on the web app.)
-  - **Tech Stack**
-    - Hardware: ESP32, Digital Temperature Sensor, Shock Sensor, Sound Sensor
-    - Software: Streamlit (Python), Python, JSON, CSS, C++
-    - Platform: Web App (running locally)
-    > *Currently, the web app is to be hosted only **locally.***
-  - [Repository](https://github.com/JustLikeChuu/bearly-awake)
-  - [Slide Deck](https://www.canva.com/design/DAGzfTHK-XE/K_Z9egQlDdbT0Wz5cfSVQg/view?utm_content=DAGzfTHK-XE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbff68a4153)
+### 🛠️ Languages and Tools
 
-## 🔧 Skills & Certifications
-- **Technical Skills**:
-  - Programming: Java, Python, C, HTML/CSS, JavaScript / TypeScript
-  - Cybersecurity: Ethical Hacking, Digital Forensics, IT Systems Security and more
-  - Tools: Flask, Docker, MongoDB, MySQL
-- **Certifications**:
-  - **AWS Academy Cloud Foundations** (Aug 2021)
-  - **RPA Developer Foundation (v2019.4)** (Jul 2021)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-## 📌 Interests
-- Developing innovative tools using **my programming knowledge and skills**.
-- Exploring **cybersecurity, automation, and AI**.
-- Participating in **community projects** to collaborate and grow.
-- Making **cyberspace safer for everyone**.
+**Certifications:** AWS Academy Cloud Foundations | RPA Developer Foundation (v2019.4)
 
-## 🌍 Let's Connect!
-- 💬 Currently not open to community projects and discussions! Please do not drop me a message!
-- 📧 Reach out via email: [Click Here!](mailto:)
+---
 
-> * "Each challenge is an opportunity to grow, innovate, and make a difference." *
+### 🐍 Notable Projects
 
-✨ Let’s connect, collaborate, and innovate together! ✨
+#### [Red Team Automation (RPA Integrated RTA)](https://github.com/Frankwotfurters/RedTeamAutomation) | *Python, Flask, Kali Linux*
+Designed to enhance red team auditors' efficiency by automating repetitive manual tasks.
+* **Core:** Features 9 automated Python scripts targeting OWASP Top 10 vulnerabilities.
+* **Highlights:** Integrated Robotic Process Automation (RPA), automated PDF generation, email notifications, and a user-friendly Flask GUI.
+* 📹 [View Pitch Video](https://youtu.be/Yhbue8GAzrM)
+
+#### [DTI - Sprout Sprinters](https://github.com/szeyii/SproutSprinters) | *Unity (C#), Arduino, Firebase*
+An interactive AR wellness solution designed to reduce stress and encourage physical activity for administrative staff.
+* **Core:** A smart fidget keychain equipped with an accelerometer and stress-detection inputs (joystick/buttons).
+* **Highlights:** Real-time data syncs via Firebase to an AR mobile app where users grow and customise a virtual garden based on their daily movement.
+* 📹 [View Demo Video](https://www.youtube.com/watch?v=1INU9X7KD5E&)
+
+#### [BEAR-ly Awake](https://github.com/JustLikeChuu/bearly-awake) | *ESP32, C++, Python, Streamlit*
+An intelligent, interactive plush companion providing a holistic, human-centred approach to sleep quality tracking.
+* **Core:** Collects real-time sleep metrics (heart rate, temperature, restlessness) via an array of ESP32 sensors.
+* **Highlights:** Displays data on a clean Streamlit dashboard and utilises an AI-like sleep assistant to generate personalised routines.
+* 📊 [View Slide Deck](https://www.canva.com/design/DAGzfTHK-XE/K_Z9egQlDdbT0Wz5cfSVQg/view?utm_content=DAGzfTHK-XE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbff68a4153)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JustLikeChuu&show_icons=true&theme=radical" alt="JustLikeChuu's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustLikeChuu&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+*Note: I am currently fully focused on my studies and personal projects, and am **not open to community projects or discussions** at this time.* 
+
+For professional inquiries only:
+<p align="left">
+<a href="mailto:ethanngsq@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
+
+<br>
+<p align="center">
+  <i>"Each challenge is an opportunity to grow, innovate, and make a difference."</i>
+</p>
