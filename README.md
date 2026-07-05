@@ -64,8 +64,8 @@ An intelligent, interactive plush companion providing a holistic, human-centred 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=JustLikeChuu&show_icons=true&theme=radical" alt="JustLikeChuu's GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JustLikeChuu&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=JustLikeChuu&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="JustLikeChuu's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JustLikeChuu&layout=compact&theme=midnight-purple" alt="Top Languages" />
 </p>
 
 ---
