@@ -9,9 +9,11 @@
 
 ### `> whoami`
 
-- 🎓 Year 3 **Computer Science and Design** at **SUTD**, specialising in **Cybersecurity** and **AI**. Came in from a diploma in Cybersecurity & Digital Forensics, then two years of National Service.
-- 🛡️ Aiming for **penetration testing / red teaming**. HackTheBox, TryHackMe and **OSCP** prep are on hold until my DSO internship wraps in Jan 2027.
-- ⚙️ I like building things at the systems level (shells, servers, protocols, crypto) so I know exactly where they break.
+- 🎓 **CS & Design @ SUTD** (Year 3), specialising in Cybersecurity and AI<br>
+  <sub>Diploma in Cybersecurity & Digital Forensics → 2 years of National Service → SUTD</sub>
+- 🛡️ **Pentest / red team bound**<br>
+  <sub>HackTheBox, TryHackMe and OSCP prep are on hold until my DSO internship wraps (Jan 2027)</sub>
+- ⚙️ **Systems first:** shells, servers, protocols, crypto. I build things so I know exactly where they break.
 
 ### `> cat ~/now.log`
 
@@ -32,14 +34,10 @@
 | 🧮 | **[applied-cryptography-labs](https://github.com/JustLikeChuu/applied-cryptography-labs)** | Seven labs from classical ciphers to RSA. Highlight: recovering an image from ECB-mode ciphertext alone, no key needed. | `Python` |
 | 🤖 | **[RedTeamAutomation](https://github.com/Frankwotfurters/RedTeamAutomation)** | Diploma FYP. Nine scripts automating OWASP Top 10 checks, with RPA, PDF reports, email alerts and a Flask GUI. [Pitch video](https://youtu.be/Yhbue8GAzrM) | `Python` `Flask` `Kali` |
 
-<details>
-<summary><b>Older builds</b> (hardware + design projects)</summary>
-<br>
+#### Older builds <sub>(hardware + design projects)</sub>
 
 - **[BEAR-ly Awake](https://github.com/JustLikeChuu/bearly-awake)**: plush companion that tracks sleep metrics (heart rate, temperature, restlessness) on ESP32 sensors, with a Streamlit dashboard. `ESP32` `C++` `Python` · [slides](https://www.canva.com/design/DAGzfTHK-XE/K_Z9egQlDdbT0Wz5cfSVQg/view)
 - **[Sprout Sprinters](https://github.com/szeyii/SproutSprinters)**: AR wellness app where a smart fidget keychain's movement grows a virtual garden, synced via Firebase. `Unity (C#)` `Arduino` `Firebase` · [demo](https://www.youtube.com/watch?v=1INU9X7KD5E)
-
-</details>
 
 ### `> history | grep -i work`
 
@@ -55,9 +53,22 @@
 
 ### `> which tools`
 
+**build**<br>
 [![Stack](https://skillicons.dev/icons?i=c,cpp,py,java,ts,js,react,vite,tailwind,nodejs,mongodb,mysql,flask,docker,linux,bash,git,vscode&perline=9)](https://skillicons.dev)
 
-Security kit: `Kali Linux` `John the Ripper` `AddressSanitizer` `OpenSSL` · Certs: AWS Academy Cloud Foundations, RPA Developer Foundation
+**break**<br>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-1a1209?style=for-the-badge&logo=kalilinux&logoColor=ffb000)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-1a1209?style=for-the-badge&logoColor=ffb000)
+![AddressSanitizer](https://img.shields.io/badge/AddressSanitizer-1a1209?style=for-the-badge&logo=llvm&logoColor=ffb000)
+![libFuzzer](https://img.shields.io/badge/libFuzzer-1a1209?style=for-the-badge&logo=llvm&logoColor=ffb000)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-1a1209?style=for-the-badge&logo=openssl&logoColor=ffb000)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-1a1209?style=for-the-badge&logo=hackthebox&logoColor=ffb000)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-1a1209?style=for-the-badge&logo=tryhackme&logoColor=ffb000)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-1a1209?style=for-the-badge&logo=burpsuite&logoColor=ffb000)
+![Wireshark](https://img.shields.io/badge/Wireshark-1a1209?style=for-the-badge&logo=wireshark&logoColor=ffb000)
+![Metasploit](https://img.shields.io/badge/Metasploit-1a1209?style=for-the-badge&logo=metasploit&logoColor=ffb000)
+
+<sub>Certs: AWS Academy Cloud Foundations · RPA Developer Foundation</sub>
 
 ### `> cat ~/.offline`
 
@@ -69,7 +80,8 @@ also:      cars, Gundams, coffee somewhere quiet
 
 ### `> ping ethan`
 
-Open to **professional inquiries**: short-term roles between **early July and end August**, or full-time employment. Reach me by [email](mailto:ethanngsq@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ethan-ngsq/).
+Open to **professional inquiries**: short-term roles between **early July and end August**, or full-time employment
+Reach me by [email](mailto:ethanngsq@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ethan-ngsq/).
 Not taking on community projects or collabs right now (internship + backlog).
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=JustLikeChuu&label=visitors&color=ffb000&style=flat-square" alt="profile views" /></p>
