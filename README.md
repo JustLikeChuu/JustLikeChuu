@@ -80,8 +80,8 @@ also:      cars, Gundams, coffee somewhere quiet
 
 ### `> ping ethan`
 
-Open to **professional inquiries**: short-term roles between **early July and end August**, or full-time employment
-Reach me by [email](mailto:ethanngsq@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ethan-ngsq/).
-Not taking on community projects or collabs right now (internship + backlog).
+- Open to **professional inquiries**: short-term roles between **early July and end August**, or full-time employment
+- Reach me by [email](mailto:ethanngsq@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ethan-ngsq/).
+- Not taking on community projects or collabs right now (internship + backlog).
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=JustLikeChuu&label=visitors&color=ffb000&style=flat-square" alt="profile views" /></p>
